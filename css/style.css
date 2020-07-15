@@ -399,6 +399,7 @@ header {
 }
 
 .portfolio__img {
+    size: inherit;
     transition: 
         transform 750ms cubic-bezier(.5, 0, .5, 1),
         opacity 250ms linear;
